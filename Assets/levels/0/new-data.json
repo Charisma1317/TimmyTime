@@ -1,0 +1,168 @@
+{
+  "Name": "DEBUG",
+  "Width": 16,
+  "Height": 16,
+  "Data": [
+    {
+      "TileLock": "Set",
+      "TilePrefab": "Dispenser",
+      "Params": {
+        "Position$Vector2": {
+          "X": 352.0,
+          "Y": 320.0
+        },
+        "Dir$Direction": 0
+      }
+    },
+    {
+      "TileLock": "Set",
+      "TilePrefab": "Block",
+      "Params": {
+        "Position$Vector2": {
+          "X": 32.0,
+          "Y": 352.0
+        }
+      }
+    },
+    {
+      "TileLock": "Set",
+      "TilePrefab": "Block",
+      "Params": {
+        "Position$Vector2": {
+          "X": 64.0,
+          "Y": 352.0
+        }
+      }
+    },
+    {
+      "TileLock": "Set",
+      "TilePrefab": "Block",
+      "Params": {
+        "Position$Vector2": {
+          "X": 96.0,
+          "Y": 352.0
+        }
+      }
+    },
+    {
+      "TileLock": "Set",
+      "TilePrefab": "Block",
+      "Params": {
+        "Position$Vector2": {
+          "X": 128.0,
+          "Y": 352.0
+        }
+      }
+    },
+    {
+      "TileLock": "Set",
+      "TilePrefab": "Block",
+      "Params": {
+        "Position$Vector2": {
+          "X": 160.0,
+          "Y": 352.0
+        }
+      }
+    },
+    {
+      "TileLock": "Set",
+      "TilePrefab": "Block",
+      "Params": {
+        "Position$Vector2": {
+          "X": 192.0,
+          "Y": 352.0
+        }
+      }
+    },
+    {
+      "TileLock": "Set",
+      "TilePrefab": "Block",
+      "Params": {
+        "Position$Vector2": {
+          "X": 224.0,
+          "Y": 352.0
+        }
+      }
+    },
+    {
+      "TileLock": "Set",
+      "TilePrefab": "Block",
+      "Params": {
+        "Position$Vector2": {
+          "X": 288.0,
+          "Y": 352.0
+        }
+      }
+    },
+    {
+      "TileLock": "Set",
+      "TilePrefab": "Block",
+      "Params": {
+        "Position$Vector2": {
+          "X": 320.0,
+          "Y": 352.0
+        }
+      }
+    },
+    {
+      "TileLock": "Set",
+      "TilePrefab": "Block",
+      "Params": {
+        "Position$Vector2": {
+          "X": 352.0,
+          "Y": 352.0
+        }
+      }
+    },
+    {
+      "TileLock": "Set",
+      "TilePrefab": "Block",
+      "Params": {
+        "Position$Vector2": {
+          "X": 384.0,
+          "Y": 352.0
+        }
+      }
+    },
+    {
+      "TileLock": "Set",
+      "TilePrefab": "Block",
+      "Params": {
+        "Position$Vector2": {
+          "X": 416.0,
+          "Y": 352.0
+        }
+      }
+    },
+    {
+      "TileLock": "Set",
+      "TilePrefab": "Block",
+      "Params": {
+        "Position$Vector2": {
+          "X": 448.0,
+          "Y": 352.0
+        }
+      }
+    },
+    {
+      "TileLock": "Free",
+      "TilePrefab": "Player",
+      "Params": {
+        "Position$Vector2": {
+          "X": 75.57257,
+          "Y": 299.281525
+        }
+      }
+    },
+    {
+      "TileLock": "Free",
+      "TilePrefab": "Powerup",
+      "Params": {
+        "Position$Vector2": {
+          "X": 190.0,
+          "Y": 444.0
+        }
+      }
+    }
+  ]
+}

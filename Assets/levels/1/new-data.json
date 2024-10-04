@@ -1,0 +1,1366 @@
+{
+  "Name": "ONE",
+  "Width": 80,
+  "Height": 17,
+  "Data": [
+    {
+      "TileLock": "Set",
+      "TilePrefab": "Dispenser",
+      "Params": {
+        "Position$Vector2": {
+          "X": 896.0,
+          "Y": 64.0
+        },
+        "Dir$Direction": 0
+      }
+    },
+    {
+      "TileLock": "Set",
+      "TilePrefab": "Block",
+      "Params": {
+        "Position$Vector2": {
+          "X": 1376.0,
+          "Y": 64.0
+        }
+      }
+    },
+    {
+      "TileLock": "Set",
+      "TilePrefab": "Block",
+      "Params": {
+        "Position$Vector2": {
+          "X": 32.0,
+          "Y": 96.0
+        }
+      }
+    },
+    {
+      "TileLock": "Set",
+      "TilePrefab": "Block",
+      "Params": {
+        "Position$Vector2": {
+          "X": 64.0,
+          "Y": 96.0
+        }
+      }
+    },
+    {
+      "TileLock": "Set",
+      "TilePrefab": "Block",
+      "Params": {
+        "Position$Vector2": {
+          "X": 96.0,
+          "Y": 96.0
+        }
+      }
+    },
+    {
+      "TileLock": "Set",
+      "TilePrefab": "Block",
+      "Params": {
+        "Position$Vector2": {
+          "X": 512.0,
+          "Y": 128.0
+        }
+      }
+    },
+    {
+      "TileLock": "Set",
+      "TilePrefab": "Block",
+      "Params": {
+        "Position$Vector2": {
+          "X": 608.0,
+          "Y": 128.0
+        }
+      }
+    },
+    {
+      "TileLock": "Set",
+      "TilePrefab": "Block",
+      "Params": {
+        "Position$Vector2": {
+          "X": 704.0,
+          "Y": 128.0
+        }
+      }
+    },
+    {
+      "TileLock": "Set",
+      "TilePrefab": "Block",
+      "Params": {
+        "Position$Vector2": {
+          "X": 800.0,
+          "Y": 128.0
+        }
+      }
+    },
+    {
+      "TileLock": "Set",
+      "TilePrefab": "Block",
+      "Params": {
+        "Position$Vector2": {
+          "X": 832.0,
+          "Y": 128.0
+        }
+      }
+    },
+    {
+      "TileLock": "Set",
+      "TilePrefab": "Block",
+      "Params": {
+        "Position$Vector2": {
+          "X": 864.0,
+          "Y": 128.0
+        }
+      }
+    },
+    {
+      "TileLock": "Set",
+      "TilePrefab": "Block",
+      "Params": {
+        "Position$Vector2": {
+          "X": 896.0,
+          "Y": 128.0
+        }
+      }
+    },
+    {
+      "TileLock": "Set",
+      "TilePrefab": "Block",
+      "Params": {
+        "Position$Vector2": {
+          "X": 928.0,
+          "Y": 128.0
+        }
+      }
+    },
+    {
+      "TileLock": "Set",
+      "TilePrefab": "Block",
+      "Params": {
+        "Position$Vector2": {
+          "X": 960.0,
+          "Y": 128.0
+        }
+      }
+    },
+    {
+      "TileLock": "Set",
+      "TilePrefab": "Block",
+      "Params": {
+        "Position$Vector2": {
+          "X": 992.0,
+          "Y": 128.0
+        }
+      }
+    },
+    {
+      "TileLock": "Set",
+      "TilePrefab": "Block",
+      "Params": {
+        "Position$Vector2": {
+          "X": 1024.0,
+          "Y": 128.0
+        }
+      }
+    },
+    {
+      "TileLock": "Set",
+      "TilePrefab": "Block",
+      "Params": {
+        "Position$Vector2": {
+          "X": 1056.0,
+          "Y": 128.0
+        }
+      }
+    },
+    {
+      "TileLock": "Set",
+      "TilePrefab": "Block",
+      "Params": {
+        "Position$Vector2": {
+          "X": 1088.0,
+          "Y": 128.0
+        }
+      }
+    },
+    {
+      "TileLock": "Set",
+      "TilePrefab": "Block",
+      "Params": {
+        "Position$Vector2": {
+          "X": 1120.0,
+          "Y": 128.0
+        }
+      }
+    },
+    {
+      "TileLock": "Set",
+      "TilePrefab": "Block",
+      "Params": {
+        "Position$Vector2": {
+          "X": 1216.0,
+          "Y": 160.0
+        }
+      }
+    },
+    {
+      "TileLock": "Set",
+      "TilePrefab": "Block",
+      "Params": {
+        "Position$Vector2": {
+          "X": 1248.0,
+          "Y": 160.0
+        }
+      }
+    },
+    {
+      "TileLock": "Set",
+      "TilePrefab": "Block",
+      "Params": {
+        "Position$Vector2": {
+          "X": 1280.0,
+          "Y": 160.0
+        }
+      }
+    },
+    {
+      "TileLock": "Set",
+      "TilePrefab": "Block",
+      "Params": {
+        "Position$Vector2": {
+          "X": 1632.0,
+          "Y": 160.0
+        }
+      }
+    },
+    {
+      "TileLock": "Set",
+      "TilePrefab": "Block",
+      "Params": {
+        "Position$Vector2": {
+          "X": 1664.0,
+          "Y": 160.0
+        }
+      }
+    },
+    {
+      "TileLock": "Set",
+      "TilePrefab": "Block",
+      "Params": {
+        "Position$Vector2": {
+          "X": 1984.0,
+          "Y": 224.0
+        }
+      }
+    },
+    {
+      "TileLock": "Set",
+      "TilePrefab": "Block",
+      "Params": {
+        "Position$Vector2": {
+          "X": 2016.0,
+          "Y": 224.0
+        }
+      }
+    },
+    {
+      "TileLock": "Set",
+      "TilePrefab": "Block",
+      "Params": {
+        "Position$Vector2": {
+          "X": 896.0,
+          "Y": 288.0
+        }
+      }
+    },
+    {
+      "TileLock": "Set",
+      "TilePrefab": "Block",
+      "Params": {
+        "Position$Vector2": {
+          "X": 928.0,
+          "Y": 288.0
+        }
+      }
+    },
+    {
+      "TileLock": "Set",
+      "TilePrefab": "Block",
+      "Params": {
+        "Position$Vector2": {
+          "X": 1312.0,
+          "Y": 288.0
+        }
+      }
+    },
+    {
+      "TileLock": "Set",
+      "TilePrefab": "Block",
+      "Params": {
+        "Position$Vector2": {
+          "X": 1344.0,
+          "Y": 288.0
+        }
+      }
+    },
+    {
+      "TileLock": "Set",
+      "TilePrefab": "Block",
+      "Params": {
+        "Position$Vector2": {
+          "X": 1376.0,
+          "Y": 288.0
+        }
+      }
+    },
+    {
+      "TileLock": "Set",
+      "TilePrefab": "Block",
+      "Params": {
+        "Position$Vector2": {
+          "X": 1408.0,
+          "Y": 288.0
+        }
+      }
+    },
+    {
+      "TileLock": "Set",
+      "TilePrefab": "Block",
+      "Params": {
+        "Position$Vector2": {
+          "X": 1888.0,
+          "Y": 288.0
+        }
+      }
+    },
+    {
+      "TileLock": "Set",
+      "TilePrefab": "Block",
+      "Params": {
+        "Position$Vector2": {
+          "X": 1920.0,
+          "Y": 288.0
+        }
+      }
+    },
+    {
+      "TileLock": "Set",
+      "TilePrefab": "Block",
+      "Params": {
+        "Position$Vector2": {
+          "X": 512.0,
+          "Y": 320.0
+        }
+      }
+    },
+    {
+      "TileLock": "Set",
+      "TilePrefab": "Block",
+      "Params": {
+        "Position$Vector2": {
+          "X": 544.0,
+          "Y": 320.0
+        }
+      }
+    },
+    {
+      "TileLock": "Set",
+      "TilePrefab": "Block",
+      "Params": {
+        "Position$Vector2": {
+          "X": 576.0,
+          "Y": 320.0
+        }
+      }
+    },
+    {
+      "TileLock": "Set",
+      "TilePrefab": "Block",
+      "Params": {
+        "Position$Vector2": {
+          "X": 1504.0,
+          "Y": 320.0
+        }
+      }
+    },
+    {
+      "TileLock": "Set",
+      "TilePrefab": "Block",
+      "Params": {
+        "Position$Vector2": {
+          "X": 1536.0,
+          "Y": 320.0
+        }
+      }
+    },
+    {
+      "TileLock": "Set",
+      "TilePrefab": "Block",
+      "Params": {
+        "Position$Vector2": {
+          "X": 1568.0,
+          "Y": 320.0
+        }
+      }
+    },
+    {
+      "TileLock": "Set",
+      "TilePrefab": "Block",
+      "Params": {
+        "Position$Vector2": {
+          "X": 0.0,
+          "Y": 352.0
+        }
+      }
+    },
+    {
+      "TileLock": "Set",
+      "TilePrefab": "Block",
+      "Params": {
+        "Position$Vector2": {
+          "X": 544.0,
+          "Y": 352.0
+        }
+      }
+    },
+    {
+      "TileLock": "Set",
+      "TilePrefab": "Block",
+      "Params": {
+        "Position$Vector2": {
+          "X": 1536.0,
+          "Y": 352.0
+        }
+      }
+    },
+    {
+      "TileLock": "Set",
+      "TilePrefab": "Block",
+      "Params": {
+        "Position$Vector2": {
+          "X": 256.0,
+          "Y": 384.0
+        }
+      }
+    },
+    {
+      "TileLock": "Set",
+      "TilePrefab": "Block",
+      "Params": {
+        "Position$Vector2": {
+          "X": 288.0,
+          "Y": 384.0
+        }
+      }
+    },
+    {
+      "TileLock": "Set",
+      "TilePrefab": "Block",
+      "Params": {
+        "Position$Vector2": {
+          "X": 544.0,
+          "Y": 384.0
+        }
+      }
+    },
+    {
+      "TileLock": "Set",
+      "TilePrefab": "Block",
+      "Params": {
+        "Position$Vector2": {
+          "X": 1536.0,
+          "Y": 384.0
+        }
+      }
+    },
+    {
+      "TileLock": "Set",
+      "TilePrefab": "Block",
+      "Params": {
+        "Position$Vector2": {
+          "X": 96.0,
+          "Y": 416.0
+        }
+      }
+    },
+    {
+      "TileLock": "Set",
+      "TilePrefab": "Block",
+      "Params": {
+        "Position$Vector2": {
+          "X": 128.0,
+          "Y": 416.0
+        }
+      }
+    },
+    {
+      "TileLock": "Set",
+      "TilePrefab": "Block",
+      "Params": {
+        "Position$Vector2": {
+          "X": 160.0,
+          "Y": 416.0
+        }
+      }
+    },
+    {
+      "TileLock": "Set",
+      "TilePrefab": "Block",
+      "Params": {
+        "Position$Vector2": {
+          "X": 544.0,
+          "Y": 416.0
+        }
+      }
+    },
+    {
+      "TileLock": "Set",
+      "TilePrefab": "Block",
+      "Params": {
+        "Position$Vector2": {
+          "X": 1536.0,
+          "Y": 416.0
+        }
+      }
+    },
+    {
+      "TileLock": "Set",
+      "TilePrefab": "Block",
+      "Params": {
+        "Position$Vector2": {
+          "X": 544.0,
+          "Y": 448.0
+        }
+      }
+    },
+    {
+      "TileLock": "Set",
+      "TilePrefab": "Block",
+      "Params": {
+        "Position$Vector2": {
+          "X": 1536.0,
+          "Y": 448.0
+        }
+      }
+    },
+    {
+      "TileLock": "Set",
+      "TilePrefab": "Block",
+      "Params": {
+        "Position$Vector2": {
+          "X": 0.0,
+          "Y": 480.0
+        }
+      }
+    },
+    {
+      "TileLock": "Set",
+      "TilePrefab": "Block",
+      "Params": {
+        "Position$Vector2": {
+          "X": 32.0,
+          "Y": 480.0
+        }
+      }
+    },
+    {
+      "TileLock": "Set",
+      "TilePrefab": "Block",
+      "Params": {
+        "Position$Vector2": {
+          "X": 64.0,
+          "Y": 480.0
+        }
+      }
+    },
+    {
+      "TileLock": "Set",
+      "TilePrefab": "Block",
+      "Params": {
+        "Position$Vector2": {
+          "X": 96.0,
+          "Y": 480.0
+        }
+      }
+    },
+    {
+      "TileLock": "Set",
+      "TilePrefab": "Block",
+      "Params": {
+        "Position$Vector2": {
+          "X": 128.0,
+          "Y": 480.0
+        }
+      }
+    },
+    {
+      "TileLock": "Set",
+      "TilePrefab": "Block",
+      "Params": {
+        "Position$Vector2": {
+          "X": 160.0,
+          "Y": 480.0
+        }
+      }
+    },
+    {
+      "TileLock": "Set",
+      "TilePrefab": "Block",
+      "Params": {
+        "Position$Vector2": {
+          "X": 288.0,
+          "Y": 480.0
+        }
+      }
+    },
+    {
+      "TileLock": "Set",
+      "TilePrefab": "Block",
+      "Params": {
+        "Position$Vector2": {
+          "X": 320.0,
+          "Y": 480.0
+        }
+      }
+    },
+    {
+      "TileLock": "Set",
+      "TilePrefab": "Block",
+      "Params": {
+        "Position$Vector2": {
+          "X": 352.0,
+          "Y": 480.0
+        }
+      }
+    },
+    {
+      "TileLock": "Set",
+      "TilePrefab": "Block",
+      "Params": {
+        "Position$Vector2": {
+          "X": 384.0,
+          "Y": 480.0
+        }
+      }
+    },
+    {
+      "TileLock": "Set",
+      "TilePrefab": "Block",
+      "Params": {
+        "Position$Vector2": {
+          "X": 416.0,
+          "Y": 480.0
+        }
+      }
+    },
+    {
+      "TileLock": "Set",
+      "TilePrefab": "Block",
+      "Params": {
+        "Position$Vector2": {
+          "X": 544.0,
+          "Y": 480.0
+        }
+      }
+    },
+    {
+      "TileLock": "Set",
+      "TilePrefab": "Block",
+      "Params": {
+        "Position$Vector2": {
+          "X": 576.0,
+          "Y": 480.0
+        }
+      }
+    },
+    {
+      "TileLock": "Set",
+      "TilePrefab": "Block",
+      "Params": {
+        "Position$Vector2": {
+          "X": 608.0,
+          "Y": 480.0
+        }
+      }
+    },
+    {
+      "TileLock": "Set",
+      "TilePrefab": "Block",
+      "Params": {
+        "Position$Vector2": {
+          "X": 640.0,
+          "Y": 480.0
+        }
+      }
+    },
+    {
+      "TileLock": "Set",
+      "TilePrefab": "Block",
+      "Params": {
+        "Position$Vector2": {
+          "X": 672.0,
+          "Y": 480.0
+        }
+      }
+    },
+    {
+      "TileLock": "Set",
+      "TilePrefab": "Block",
+      "Params": {
+        "Position$Vector2": {
+          "X": 704.0,
+          "Y": 480.0
+        }
+      }
+    },
+    {
+      "TileLock": "Set",
+      "TilePrefab": "Block",
+      "Params": {
+        "Position$Vector2": {
+          "X": 736.0,
+          "Y": 480.0
+        }
+      }
+    },
+    {
+      "TileLock": "Set",
+      "TilePrefab": "Block",
+      "Params": {
+        "Position$Vector2": {
+          "X": 768.0,
+          "Y": 480.0
+        }
+      }
+    },
+    {
+      "TileLock": "Set",
+      "TilePrefab": "Block",
+      "Params": {
+        "Position$Vector2": {
+          "X": 800.0,
+          "Y": 480.0
+        }
+      }
+    },
+    {
+      "TileLock": "Set",
+      "TilePrefab": "Block",
+      "Params": {
+        "Position$Vector2": {
+          "X": 928.0,
+          "Y": 480.0
+        }
+      }
+    },
+    {
+      "TileLock": "Set",
+      "TilePrefab": "Block",
+      "Params": {
+        "Position$Vector2": {
+          "X": 960.0,
+          "Y": 480.0
+        }
+      }
+    },
+    {
+      "TileLock": "Set",
+      "TilePrefab": "Block",
+      "Params": {
+        "Position$Vector2": {
+          "X": 992.0,
+          "Y": 480.0
+        }
+      }
+    },
+    {
+      "TileLock": "Set",
+      "TilePrefab": "Block",
+      "Params": {
+        "Position$Vector2": {
+          "X": 1024.0,
+          "Y": 480.0
+        }
+      }
+    },
+    {
+      "TileLock": "Set",
+      "TilePrefab": "Block",
+      "Params": {
+        "Position$Vector2": {
+          "X": 1056.0,
+          "Y": 480.0
+        }
+      }
+    },
+    {
+      "TileLock": "Set",
+      "TilePrefab": "Block",
+      "Params": {
+        "Position$Vector2": {
+          "X": 1088.0,
+          "Y": 480.0
+        }
+      }
+    },
+    {
+      "TileLock": "Set",
+      "TilePrefab": "Block",
+      "Params": {
+        "Position$Vector2": {
+          "X": 1120.0,
+          "Y": 480.0
+        }
+      }
+    },
+    {
+      "TileLock": "Set",
+      "TilePrefab": "Block",
+      "Params": {
+        "Position$Vector2": {
+          "X": 1152.0,
+          "Y": 480.0
+        }
+      }
+    },
+    {
+      "TileLock": "Set",
+      "TilePrefab": "Block",
+      "Params": {
+        "Position$Vector2": {
+          "X": 1280.0,
+          "Y": 480.0
+        }
+      }
+    },
+    {
+      "TileLock": "Set",
+      "TilePrefab": "Block",
+      "Params": {
+        "Position$Vector2": {
+          "X": 1312.0,
+          "Y": 480.0
+        }
+      }
+    },
+    {
+      "TileLock": "Set",
+      "TilePrefab": "Block",
+      "Params": {
+        "Position$Vector2": {
+          "X": 1344.0,
+          "Y": 480.0
+        }
+      }
+    },
+    {
+      "TileLock": "Set",
+      "TilePrefab": "Block",
+      "Params": {
+        "Position$Vector2": {
+          "X": 1376.0,
+          "Y": 480.0
+        }
+      }
+    },
+    {
+      "TileLock": "Set",
+      "TilePrefab": "Block",
+      "Params": {
+        "Position$Vector2": {
+          "X": 1408.0,
+          "Y": 480.0
+        }
+      }
+    },
+    {
+      "TileLock": "Set",
+      "TilePrefab": "Block",
+      "Params": {
+        "Position$Vector2": {
+          "X": 1440.0,
+          "Y": 480.0
+        }
+      }
+    },
+    {
+      "TileLock": "Set",
+      "TilePrefab": "Block",
+      "Params": {
+        "Position$Vector2": {
+          "X": 1472.0,
+          "Y": 480.0
+        }
+      }
+    },
+    {
+      "TileLock": "Set",
+      "TilePrefab": "Block",
+      "Params": {
+        "Position$Vector2": {
+          "X": 1504.0,
+          "Y": 480.0
+        }
+      }
+    },
+    {
+      "TileLock": "Set",
+      "TilePrefab": "Block",
+      "Params": {
+        "Position$Vector2": {
+          "X": 1536.0,
+          "Y": 480.0
+        }
+      }
+    },
+    {
+      "TileLock": "Set",
+      "TilePrefab": "Block",
+      "Params": {
+        "Position$Vector2": {
+          "X": 1568.0,
+          "Y": 480.0
+        }
+      }
+    },
+    {
+      "TileLock": "Set",
+      "TilePrefab": "Block",
+      "Params": {
+        "Position$Vector2": {
+          "X": 1600.0,
+          "Y": 480.0
+        }
+      }
+    },
+    {
+      "TileLock": "Set",
+      "TilePrefab": "Block",
+      "Params": {
+        "Position$Vector2": {
+          "X": 1632.0,
+          "Y": 480.0
+        }
+      }
+    },
+    {
+      "TileLock": "Set",
+      "TilePrefab": "Block",
+      "Params": {
+        "Position$Vector2": {
+          "X": 1664.0,
+          "Y": 480.0
+        }
+      }
+    },
+    {
+      "TileLock": "Set",
+      "TilePrefab": "Block",
+      "Params": {
+        "Position$Vector2": {
+          "X": 1696.0,
+          "Y": 480.0
+        }
+      }
+    },
+    {
+      "TileLock": "Set",
+      "TilePrefab": "Block",
+      "Params": {
+        "Position$Vector2": {
+          "X": 1728.0,
+          "Y": 480.0
+        }
+      }
+    },
+    {
+      "TileLock": "Set",
+      "TilePrefab": "Block",
+      "Params": {
+        "Position$Vector2": {
+          "X": 1760.0,
+          "Y": 480.0
+        }
+      }
+    },
+    {
+      "TileLock": "Set",
+      "TilePrefab": "Block",
+      "Params": {
+        "Position$Vector2": {
+          "X": 1792.0,
+          "Y": 480.0
+        }
+      }
+    },
+    {
+      "TileLock": "Set",
+      "TilePrefab": "Block",
+      "Params": {
+        "Position$Vector2": {
+          "X": 1824.0,
+          "Y": 480.0
+        }
+      }
+    },
+    {
+      "TileLock": "Set",
+      "TilePrefab": "Block",
+      "Params": {
+        "Position$Vector2": {
+          "X": 1856.0,
+          "Y": 480.0
+        }
+      }
+    },
+    {
+      "TileLock": "Set",
+      "TilePrefab": "Block",
+      "Params": {
+        "Position$Vector2": {
+          "X": 1888.0,
+          "Y": 480.0
+        }
+      }
+    },
+    {
+      "TileLock": "Set",
+      "TilePrefab": "Block",
+      "Params": {
+        "Position$Vector2": {
+          "X": 1920.0,
+          "Y": 480.0
+        }
+      }
+    },
+    {
+      "TileLock": "Free",
+      "TilePrefab": "WinTrigger",
+      "Params": {
+        "Position$Vector2": {
+          "X": 64.0,
+          "Y": 64.0
+        }
+      }
+    },
+    {
+      "TileLock": "Free",
+      "TilePrefab": "Conveyer",
+      "Params": {
+        "Position$Vector2": {
+          "X": 352.01416,
+          "Y": 352.005737
+        },
+        "Length$System.Int32": 3,
+        "Right$System.Boolean": true
+      }
+    },
+    {
+      "TileLock": "Free",
+      "TilePrefab": "Player",
+      "Params": {
+        "Position$Vector2": {
+          "X": 32.0141754,
+          "Y": 448.005737
+        }
+      }
+    },
+    {
+      "TileLock": "Free",
+      "TilePrefab": "MovingPlatform",
+      "Params": {
+        "Position$Vector2": {
+          "X": 640.0,
+          "Y": 416.0
+        },
+        "Length$System.Int32": 1,
+        "MovingBounds$MovingBounds": {
+          "Left": {
+            "X": 0.0,
+            "Y": 0.0
+          },
+          "Right": {
+            "X": 0.0,
+            "Y": 0.0
+          }
+        }
+      }
+    },
+    {
+      "TileLock": "Free",
+      "TilePrefab": "MovingPlatform",
+      "Params": {
+        "Position$Vector2": {
+          "X": 1632.0,
+          "Y": 352.0
+        },
+        "Length$System.Int32": 1,
+        "MovingBounds$MovingBounds": {
+          "Left": {
+            "X": 0.0,
+            "Y": 0.0
+          },
+          "Right": {
+            "X": 0.0,
+            "Y": 0.0
+          }
+        }
+      }
+    },
+    {
+      "TileLock": "Free",
+      "TilePrefab": "MovingPlatform",
+      "Params": {
+        "Position$Vector2": {
+          "X": 1632.0,
+          "Y": 416.0
+        },
+        "Length$System.Int32": 1,
+        "MovingBounds$MovingBounds": {
+          "Left": {
+            "X": 0.0,
+            "Y": 0.0
+          },
+          "Right": {
+            "X": 0.0,
+            "Y": 0.0
+          }
+        }
+      }
+    },
+    {
+      "TileLock": "Free",
+      "TilePrefab": "SimpleMovingEnemy",
+      "Params": {
+        "Position$Vector2": {
+          "X": 707.9175,
+          "Y": 458.944946
+        },
+        "MovingBounds$MovingBounds": {
+          "Left": {
+            "X": 577.0,
+            "Y": 462.0
+          },
+          "Right": {
+            "X": 805.0,
+            "Y": 462.0
+          }
+        }
+      }
+    },
+    {
+      "TileLock": "Free",
+      "TilePrefab": "SimpleMovingEnemy",
+      "Params": {
+        "Position$Vector2": {
+          "X": 1321.07788,
+          "Y": 460.0
+        },
+        "MovingBounds$MovingBounds": {
+          "Left": {
+            "X": 1290.0,
+            "Y": 460.0
+          },
+          "Right": {
+            "X": 1510.0,
+            "Y": 460.0
+          }
+        }
+      }
+    },
+    {
+      "TileLock": "Free",
+      "TilePrefab": "SimpleMovingEnemy",
+      "Params": {
+        "Position$Vector2": {
+          "X": 1599.43042,
+          "Y": 460.0
+        },
+        "MovingBounds$MovingBounds": {
+          "Left": {
+            "X": 1570.0,
+            "Y": 460.0
+          },
+          "Right": {
+            "X": 1859.0,
+            "Y": 460.0
+          }
+        }
+      }
+    },
+    {
+      "TileLock": "Free",
+      "TilePrefab": "AIEntity",
+      "Params": {
+        "Position$Vector2": {
+          "X": 1382.08313,
+          "Y": 45.6326332
+        }
+      }
+    },
+    {
+      "TileLock": "Free",
+      "TilePrefab": "MovingPlatform",
+      "Params": {
+        "Position$Vector2": {
+          "X": 1024.0,
+          "Y": 288.0
+        },
+        "Length$System.Int32": 3,
+        "MovingBounds$MovingBounds": {
+          "Left": {
+            "X": 960.0,
+            "Y": 288.0
+          },
+          "Right": {
+            "X": 1210.0,
+            "Y": 288.0
+          }
+        }
+      }
+    },
+    {
+      "TileLock": "Free",
+      "TilePrefab": "MovingPlatform",
+      "Params": {
+        "Position$Vector2": {
+          "X": 1472.0,
+          "Y": 160.0
+        },
+        "Length$System.Int32": 3,
+        "MovingBounds$MovingBounds": {
+          "Left": {
+            "X": 1310.0,
+            "Y": 160.0
+          },
+          "Right": {
+            "X": 1530.0,
+            "Y": 160.0
+          }
+        }
+      }
+    },
+    {
+      "TileLock": "Free",
+      "TilePrefab": "Conveyer",
+      "Params": {
+        "Position$Vector2": {
+          "X": 287.325928,
+          "Y": 127.0
+        },
+        "Length$System.Int32": 5,
+        "Right$System.Boolean": false
+      }
+    },
+    {
+      "TileLock": "Free",
+      "TilePrefab": "Conveyer",
+      "Params": {
+        "Position$Vector2": {
+          "X": 704.008057,
+          "Y": 320.0
+        },
+        "Length$System.Int32": 4,
+        "Right$System.Boolean": true
+      }
+    },
+    {
+      "TileLock": "Free",
+      "TilePrefab": "Conveyer",
+      "Params": {
+        "Position$Vector2": {
+          "X": 1696.63892,
+          "Y": 319.996521
+        },
+        "Length$System.Int32": 4,
+        "Right$System.Boolean": true
+      }
+    },
+    {
+      "TileLock": "Free",
+      "TilePrefab": "Conveyer",
+      "Params": {
+        "Position$Vector2": {
+          "X": 1792.0,
+          "Y": 96.0
+        },
+        "Length$System.Int32": 5,
+        "Right$System.Boolean": false
+      }
+    },
+    {
+      "TileLock": "Free",
+      "TilePrefab": "MovingPlatform",
+      "Params": {
+        "Position$Vector2": {
+          "X": 640.0,
+          "Y": 352.0
+        },
+        "Length$System.Int32": 1,
+        "MovingBounds$MovingBounds": {
+          "Left": {
+            "X": 0.0,
+            "Y": 0.0
+          },
+          "Right": {
+            "X": 0.0,
+            "Y": 0.0
+          }
+        }
+      }
+    },
+    {
+      "TileLock": "Free",
+      "TilePrefab": "MovingPlatform",
+      "Params": {
+        "Position$Vector2": {
+          "X": 1984.0,
+          "Y": 96.0
+        },
+        "Length$System.Int32": 2,
+        "MovingBounds$MovingBounds": {
+          "Left": {
+            "X": 0.0,
+            "Y": 0.0
+          },
+          "Right": {
+            "X": 0.0,
+            "Y": 0.0
+          }
+        }
+      }
+    },
+    {
+      "TileLock": "Free",
+      "TilePrefab": "MovingPlatform",
+      "Params": {
+        "Position$Vector2": {
+          "X": 1984.0,
+          "Y": 160.0
+        },
+        "Length$System.Int32": 2,
+        "MovingBounds$MovingBounds": {
+          "Left": {
+            "X": 0.0,
+            "Y": 0.0
+          },
+          "Right": {
+            "X": 0.0,
+            "Y": 0.0
+          }
+        }
+      }
+    },
+    {
+      "TileLock": "Free",
+      "TilePrefab": "Powerup",
+      "Params": {
+        "Position$Vector2": {
+          "X": -1.00001526,
+          "Y": 319.0
+        }
+      }
+    }
+  ]
+}

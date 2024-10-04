@@ -1,0 +1,16 @@
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+X                                                      X
+X                                 X                    X
+X  XXX  X       (B)   (B)   (B)   X    (B)             X
+X         (B)   XXX   XXX   XXX   XX   XXX             X
+X         XXX                                          X
+X  XXX                                          (   B) X
+X                                               XXXXXX X
+X                                                    X X
+X  XXX                                               X X
+X                                                    X X
+X   A                   (B)                            X
+X  XXX                  XXX     (B)                XXX X
+X                               XXX                    X
+X   P                    E                             X
+XXXXXXXXXX               X     <<<   <<<   <<<         X

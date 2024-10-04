@@ -1,0 +1,14 @@
+{
+    "Mappings": {
+        "X": "Block",
+        "F": "MovingPlatform",
+        "(": "LeftSimpleBound",
+        ")": "RightSimpleBound",
+        "B": "SimpleMovingEnemy",
+        "P": "Player",
+        "E": "WinTrigger",
+        ">": "RightConveyer",
+        "<": "LeftConveyer",
+        "A": "AIEntity"
+    }
+}

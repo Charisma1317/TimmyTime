@@ -1,0 +1,7 @@
+{
+    "Name": "Level 1",
+    "GridWidth": 16,
+    "GridHeight": 16,
+    "TileSet": "tiles.txt",
+    "TileMappings": "mappings.json"
+}
